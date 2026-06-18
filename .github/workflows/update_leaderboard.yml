@@ -26,7 +26,7 @@ jobs:
       - name: Run leaderboard update script
         env:
           BRACKETS_DIR: brackets
-          RESULTS_FILE: results.csv
+          RESULTS_FILE: results.xlsx
           OUTPUT_FILE: leaderboard.json
         run: |
           python scripts/update_leaderboard.py
