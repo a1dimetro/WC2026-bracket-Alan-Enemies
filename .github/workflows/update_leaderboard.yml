@@ -6,7 +6,7 @@ on:
     - cron: '0 14 * * *'
   workflow_dispatch:
   
-  permissions:
+permissions:
   contents: write  # allow this workflow to push commits
 
 jobs:
