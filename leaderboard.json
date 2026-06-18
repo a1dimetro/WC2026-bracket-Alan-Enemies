@@ -1,90 +1,90 @@
 [
   {
-    "bracket": "SarmedNasery_WC2026",
-    "total_points": 14
-  },
-  {
-    "bracket": "Shynggys_WC2026",
-    "total_points": 14
-  },
-  {
     "bracket": "Amirzhan_WC2026",
-    "total_points": 13
-  },
-  {
-    "bracket": "Alga_Kazakhstan_WC2026",
-    "total_points": 11
-  },
-  {
-    "bracket": "AmiraliAFA_WC2026",
-    "total_points": 11
-  },
-  {
-    "bracket": "Assemgul_WC2026",
-    "total_points": 11
-  },
-  {
-    "bracket": "RassulTheChamp_WC2026",
-    "total_points": 11
-  },
-  {
-    "bracket": "Adil_WC2026",
-    "total_points": 10
-  },
-  {
-    "bracket": "Aldo_WC2026",
-    "total_points": 10
-  },
-  {
-    "bracket": "AlmiraTheChomp_WC2026",
-    "total_points": 10
+    "total_points": 28
   },
   {
     "bracket": "Alrakhmet_WC2026",
-    "total_points": 10
+    "total_points": 24
   },
   {
-    "bracket": "Eun_WC2026",
-    "total_points": 10
-  },
-  {
-    "bracket": "MadeleneMagic_WC2026",
-    "total_points": 10
-  },
-  {
-    "bracket": "Matt_WC2026",
-    "total_points": 10
-  },
-  {
-    "bracket": "Pretzel_WC2026",
-    "total_points": 10
-  },
-  {
-    "bracket": "Alexthemejia_WC2026",
-    "total_points": 9
-  },
-  {
-    "bracket": "RoyalHighness_WC2026",
-    "total_points": 9
+    "bracket": "AmiraliAFA_WC2026",
+    "total_points": 24
   },
   {
     "bracket": "Javid_WC2026",
-    "total_points": 8
+    "total_points": 23
   },
   {
-    "bracket": "Ali_WC2026",
-    "total_points": 7
+    "bracket": "Matt_WC2026",
+    "total_points": 23
   },
   {
-    "bracket": "Nurila_WC2026",
-    "total_points": 7
+    "bracket": "SarmedNasery_WC2026",
+    "total_points": 23
+  },
+  {
+    "bracket": "RassulTheChamp_WC2026",
+    "total_points": 22
+  },
+  {
+    "bracket": "Aldo_WC2026",
+    "total_points": 21
+  },
+  {
+    "bracket": "Assemgul_WC2026",
+    "total_points": 21
+  },
+  {
+    "bracket": "Alga_Kazakhstan_WC2026",
+    "total_points": 20
+  },
+  {
+    "bracket": "Adil_WC2026",
+    "total_points": 19
+  },
+  {
+    "bracket": "MadeleneMagic_WC2026",
+    "total_points": 19
   },
   {
     "bracket": "Nelya_WC2026",
-    "total_points": 5
+    "total_points": 19
+  },
+  {
+    "bracket": "RoyalHighness_WC2026",
+    "total_points": 19
+  },
+  {
+    "bracket": "Shynggys_WC2026",
+    "total_points": 19
+  },
+  {
+    "bracket": "Alexthemejia_WC2026",
+    "total_points": 16
+  },
+  {
+    "bracket": "Ali_WC2026",
+    "total_points": 15
   },
   {
     "bracket": "BlueLock_WC2026",
-    "total_points": 4
+    "total_points": 15
+  },
+  {
+    "bracket": "Nurila_WC2026",
+    "total_points": 15
+  },
+  {
+    "bracket": "AlmiraTheChomp_WC2026",
+    "total_points": 14
+  },
+  {
+    "bracket": "Pretzel_WC2026",
+    "total_points": 14
+  },
+  {
+    "bracket": "Eun_WC2026",
+    "total_points": 11
   }
 ]
