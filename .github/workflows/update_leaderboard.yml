@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 14 * * *'
   workflow_dispatch:
+  
+  permissions:
+  contents: write  # allow this workflow to push commits
 
 jobs:
   build:
@@ -34,6 +37,7 @@ jobs:
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           add: 'leaderboard.json'
           message: 'chore: update leaderboard data (automated)'
           author_name: GitHub Actions
